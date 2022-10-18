@@ -1,0 +1,36 @@
+body {
+    font-family: georgia,garamond,serif;
+    font-size: 25px;
+    background-image: url(assets/img/Backgrond.jpg);
+}
+p{
+    line-height: 150%;
+}
+
+h1{
+    text-align: center
+}
+
+
+.brand {
+    padding: 30px;
+}
+
+
+.content.pure-u-1.support_frame {
+    background-color:	#F5F5F5;
+    border-top: 1px #D3D3D3 solid;
+    font-size:15px;
+    line-height: 100%;
+}
+
+.content.pure-u-1.picture_frame {
+    border-top: 1px #A9A9A9 solid;
+    border-bottom: 1px #A9A9A9 solid;
+    border-left: 1px #A9A9A9 solid;
+    border-right: 1px #A9A9A9 solid;
+}
+
+
+
+

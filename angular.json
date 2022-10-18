@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Apple-Company"
+    }
+  },
+  "defaultProject": "Apple-Company",
+  "cli": {
+    "analytics": "0e81e8a3-a188-47d4-891d-06adc14014b1"
+  }
 }
